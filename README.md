@@ -143,7 +143,7 @@ svd_recs = svd_recommend(user_id=1, n=10)
 
 ## 👤 Author
 
-**Mohd Mahedi Bakali**  
+**Mohd Ayyan Mohd Mahmood**  
 Intern at **Codec Technologies**
 
 ---
